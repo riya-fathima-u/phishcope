@@ -2,7 +2,7 @@
 
 **A beginner-friendly tool that checks whether an email looks like a phishing attempt, then explains why.**
 
-!\[PhishScope report for a phishing email](docs/report-phishing.png)
+\![PhishScope report for a phishing email](docs/report-phishing.png)
 
 You give PhishScope a suspicious email (saved as an `.eml` file). It returns:
 
@@ -61,7 +61,7 @@ Checking an email by hand means inspecting many small details. PhishScope checks
 * **Defanged link:** a link made unclickable on purpose, like `hxxp://evil\[.]example`, so nobody opens it by accident.
 * **Double extension:** a file named `invoice.pdf.exe`. Windows may hide the last part, so it looks like a PDF.
 
-!\[Links and attachments section of the report](docs/report-details.png)
+\![Links and attachments section of the report](docs/report-details.png)
 
 
 
@@ -108,19 +108,16 @@ Privacy:  never commit real emails to GitHub. They contain personal information.
 
 **Command line**
 
-!\[Command line output\](docs/cli-output.png)
+\![Command line output](docs/cli-output.png)
 
-**Upload page**
-
-!\[Local upload page](docs/web-upload.png)
 
 **A normal email scores low**
 
-!\[Low risk report](docs/report-safe.png)
+\![Low risk report](docs/report-safe.png)
 
 **Automated tests passing**
 
-!\[Tests passing](docs/tests-pass.png)
+\![Tests passing](docs/tests-pass.png)
 
 
 
