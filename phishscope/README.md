@@ -108,7 +108,7 @@ Privacy:  never commit real emails to GitHub. They contain personal information.
 
 **Command line**
 
-!\[Command line output](docs/cli-output.png)
+!\[Command line output\](docs/cli-output.png)
 
 **Upload page**
 
