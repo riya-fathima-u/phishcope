@@ -203,8 +203,8 @@ phishscope/
 
 ## Author
 
-Built by **\[Your Name]** as part of my cybersecurity and digital forensics practice.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Built by **\Riya Fathima U** as part of my cybersecurity and digital forensics practice.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/riya-fathima-u).
 
 ## License
 
