@@ -1,0 +1,13 @@
+Received: from mail.example.org ([198.51.100.20]) by mx.victim.example; Wed, 11 Nov 2026 10:00:00 +0530
+Authentication-Results: mx.victim.example; spf=pass smtp.mailfrom=example.org; dkim=pass header.d=example.org; dmarc=pass
+From: "Asha from Example Org" <asha@example.org>
+Return-Path: <asha@example.org>
+To: victim@victim.example
+Subject: Notes from Tuesday's meeting
+Date: Wed, 11 Nov 2026 09:58:00 +0530
+Message-ID: <note42@example.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hi, the meeting notes are on our shared page: https://example.org/notes
+Thanks!

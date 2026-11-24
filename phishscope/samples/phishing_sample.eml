@@ -1,0 +1,33 @@
+Received: from mail.secure-paypa1-login.example ([203.0.113.45]) by mx.victim.example; Tue, 10 Nov 2026 09:12:01 +0530
+Authentication-Results: mx.victim.example; spf=fail smtp.mailfrom=secure-paypa1-login.example; dkim=none; dmarc=fail
+From: "PayPal Security" <alerts@secure-paypa1-login.example>
+Reply-To: <help-desk@gmail-support-team.example>
+Return-Path: <bounce@mailer-xyz.example>
+To: victim@victim.example
+Subject: URGENT: Your account will be closed within 24 hours
+Date: Tue, 10 Nov 2026 09:11:00 +0530
+Message-ID: <abc123@secure-paypa1-login.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="B1"
+
+--B1
+Content-Type: text/html; charset=utf-8
+
+<html><body><p>We noticed unusual activity. Verify your account immediately.</p>
+<p><a href="http://198.51.100.7/paypal/login.php">https://www.paypal.com/security</a></p>
+<p><a href="http://bit.ly/3xYzAbC">Click here</a> to avoid suspension.</p></body></html>
+--B1
+Content-Type: application/pdf; name="invoice.pdf"
+Content-Disposition: attachment; filename="invoice.pdf"
+Content-Transfer-Encoding: base64
+
+TVqQACBGQUtFIERFTU8gQllURVMgLSBOT1QgQSBSRUFMIEVYRUNVVEFCTEU=
+
+--B1
+Content-Type: application/octet-stream; name="scan.pdf.exe"
+Content-Disposition: attachment; filename="scan.pdf.exe"
+Content-Transfer-Encoding: base64
+
+TVqQACBGQUtFIERFTU8gQllURVMgLSBOT1QgQSBSRUFMIEVYRUNVVEFCTEU=
+
+--B1--
